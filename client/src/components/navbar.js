@@ -32,6 +32,7 @@ export const Navbar=()=>{
                     <Link to="/courses" className="link">Courses</Link>
                 </div>
             )
+            
         } */}
 
         {
